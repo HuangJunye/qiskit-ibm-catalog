@@ -1,0 +1,50 @@
+﻿qiskit\_ibm\_catalog.catalog.QiskitFunctionsCatalog
+===================================================
+
+.. currentmodule:: qiskit_ibm_catalog.catalog
+
+.. autoclass:: QiskitFunctionsCatalog
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~QiskitFunctionsCatalog.__init__
+      ~QiskitFunctionsCatalog.backend
+      ~QiskitFunctionsCatalog.backends
+      ~QiskitFunctionsCatalog.events
+      ~QiskitFunctionsCatalog.file_delete
+      ~QiskitFunctionsCatalog.file_download
+      ~QiskitFunctionsCatalog.file_upload
+      ~QiskitFunctionsCatalog.files
+      ~QiskitFunctionsCatalog.get_job_by_id
+      ~QiskitFunctionsCatalog.job
+      ~QiskitFunctionsCatalog.jobs
+      ~QiskitFunctionsCatalog.least_busy
+      ~QiskitFunctionsCatalog.list
+      ~QiskitFunctionsCatalog.load
+      ~QiskitFunctionsCatalog.provider_file_delete
+      ~QiskitFunctionsCatalog.provider_file_download
+      ~QiskitFunctionsCatalog.provider_file_upload
+      ~QiskitFunctionsCatalog.provider_files
+      ~QiskitFunctionsCatalog.provider_jobs
+      ~QiskitFunctionsCatalog.runtime_jobs
+      ~QiskitFunctionsCatalog.runtime_sessions
+      ~QiskitFunctionsCatalog.save_account
+      ~QiskitFunctionsCatalog.usage
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~QiskitFunctionsCatalog.PRE_FILTER_KEYWORD
+   
+   
